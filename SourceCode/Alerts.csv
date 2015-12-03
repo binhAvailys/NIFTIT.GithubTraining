@@ -1,0 +1,3 @@
+#TYPE System.Management.Automation.PSCustomObject
+"List URL","Alert Title","Alert Type","User ID","User Name","Time","Template Name","Alert Frequency "
+"http://win-jr6qk46n57q/","AAAA","List","i:0#.w|win-jr6qk46n57q\hai.test","WIN-JR6QK46N57Q\hai.test","9/25/2015 12:00:00 AM","SPAlertTemplateType.GenericList","Weekly"
